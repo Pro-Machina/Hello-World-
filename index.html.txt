@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>My Social Network</title>
+	</head>
+	<body>
+		<!--Add your HTML below!-->
+		<h1>Some People I Happen To Know..</h1>
+		
+		<ul>
+		    <li>These are the closest ones :)
+    		    <p>
+    		    	<a href="https://www.facebook.com/sanket.agrawal.503?fref=ts&ref=br_tf&qsefr=1">
+            		    <div class="friend">
+Sanket
+            		        <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpl1/v/t1.0-1/c0.0.100.100/p100x100/12932644_982564888498006_5986532246275515923_n.jpg?oh=9eb6209f8c251aca0f1bfa7d8fb06c09&oe=57E5101C&__gda__=1473741803_e7991022ecd45acc230e5c6e3fa739af"/>
+            	    	    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/devyani.verma.9?fref=ts">
+            		    <div class="friend">Devyani
+            		        <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/c27.41.160.160/p200x200/13256356_1165783970106536_5890828643502932669_n.jpg?oh=3a97526999e0f6364f90a946b78ea4d4&oe=57E1C803&__gda__=1472882450_6e62f57a4676fe2af3134fb1141ba787"/>
+            		    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/chinmay0301?fref=ts">
+            		    <div class="friend">Chinna
+            		        <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p160x160/12049655_1092220690788086_1537027203344129082_n.jpg?oh=dcefbbb13a4263843e606932847b8643&oe=57E0D722&__gda__=1474461405_bbf4037469c7d3c7a8def8fe042c241e"/>
+            		    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/dhruv.ilesh?fref=ts">
+            		    <div class="friend">Dhruv
+            		        <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xal1/v/t1.0-1/p100x100/13221026_1260328120658914_4572716033159060893_n.jpg?oh=98a6a2a9c294b1645c12cb7965f574e8&oe=57CFD626&__gda__=1473519587_a9c29a6acb5130d748972a296e51a7de"/>
+            		    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/ritik.madan?fref=ts">
+            		    <div class="friend">Ritik
+            		        <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p160x160/12646990_10208661186716883_6738519336586791869_n.jpg?oh=691c58f581445f56efb973e5ce0bb032&oe=579A8A55&__gda__=1474712109_44c22d6239b1291457ac22a4cc335948"/>
+            		    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/priyamvada.dahima.5?fref=ts">
+            		    <div class="friend" id="bestie">Priyu
+            		        <img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/12800144_1566569333670378_2515121391828141330_n.jpg?oh=545d24f558382977da2b9754036f4a21&oe=57D617D6&__gda__=1474606524_e958b64243e2371f5b80f8fc01b249e8"/>
+            		    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/rockstarmookund?fref=ts">
+            		    <div class="friend">Beefy
+            		        <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/p160x160/12494658_1114307105247769_6597393289714948478_n.jpg?oh=ab71cc03e04922860525acafb0418827&oe=57E851F2&__gda__=1473565342_0f05134fe9f82eb992dd2d085ff76e4b"/>
+            		    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/kshitij.pisal?fref=ts">
+            		    <div class="friend">Kshitij
+            		        <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xlf1/v/t1.0-1/p160x160/11988597_532200413604512_6738149747706549560_n.jpg?oh=8cd8140a4ab93366f56d57c9851455a3&oe=57E61C7A&__gda__=1473392038_d55ef96b2ec7e6418050558d18311c89"/>
+            		    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/romario.peter1?fref=ts">
+            		    <div class="friend">Rio
+            		        <img src="https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/12418057_1122390157803513_5016678227602968038_n.jpg?oh=a75165e639ebe1acf08142aa23aa4e57&oe=57CB706F"/>
+            		    </div>
+            		</a>
+		        </p>
+		    </li>
+		    
+		    <li>And then comes my family..
+		        <p>
+    		        <a href="https://www.facebook.com/neena.sohani?fref=ts">
+            		    <div class="family">Maa
+            		        <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c516.171.378.378/s160x160/11800438_860631993989851_5526863205964333214_n.jpg?oh=71903668d55d9f966698757016860d1e&oe=57D41765&__gda__=1473936535_d983134102939922ee18b2cec6b5a24a"/>
+            		    </div>
+            		</a>
+            		
+            		<a href="https://www.facebook.com/nagendra.sohani?fref=ts">
+            		    <div class="family">Papa
+                		    <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpf1/v/t1.0-1/c28.0.160.160/p160x160/11667269_986481784705115_2684034687010314350_n.jpg?oh=ad4d4be9ac9be3b3ccada92378c7e6d9&oe=579EC3A8&__gda__=1472917608_8ffe24ab08e6be39de54aad4727e6def"/>  
+            		    </div>
+            		</a>
+		        </p>
+		    </li>
+		    
+		    <li>And here's one I don't like.
+		        <p>
+    		        <a href="https://www.facebook.com/simarattherock?fref=ts">
+                		<div class="enemy" id="archnemesis">Simar
+                		    <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpt1/v/t1.0-1/c41.0.160.160/p160x160/12144884_861498677296658_7712077793507300087_n.jpg?oh=b598023ec63aeef59c3801ebaa230839&oe=579E12A2&__gda__=1473471088_4af913616d1989f36f85b6637656226e"/>
+                		</div>
+                	</a>
+		        </p>
+		    </li>
+		</ul>    
+	</body>
+</html>

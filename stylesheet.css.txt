@@ -1,0 +1,72 @@
+/*Add your CSS below!*/
+h1 {
+    font-family:Cursive;
+    color:black;
+}
+
+li {
+    font-family:Verdana;
+}
+
+div {
+	display: inline-block;
+	margin-left: 5px;
+	height:100px;
+	width:100px;
+    border:2px solid black;
+    border-radius:100%;
+    text-align:center;
+    font-size:15px;
+    font-family:"Comic Sans MS";
+}
+
+.friend {
+    
+    border:2px dashed #008000;
+    color:black;
+}
+.friend:hover {
+    background-color:#000066;
+    border:2px solid #008000;
+    font-weight:bold;
+    color:#ffff66;
+}
+
+#bestie {
+    border:4px solid #00c957;
+}
+#bestie:hover {
+    background-color:magenta;
+}
+
+.family {
+    border:2px dashed #0000ff;
+}
+.family:hover {
+    background-color:#99ff66;
+    border:2px solid #0000ff;
+    font-weight:bold;
+}
+
+.enemy {
+    border:2px dashed #ff0000;
+}
+.enemy:hover {
+    background-color:black;
+    color:white;
+    font-weight:bold;
+}
+
+#archnemesis {
+    border:4px solid #CC0000;
+}
+
+img {
+    display: inline-block;
+	margin-left: 5px;
+	height:80px;
+	width:80px;
+    border:2px solid black;
+    border-radius:100%;
+    text-align:center;
+}
