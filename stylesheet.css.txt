@@ -20,6 +20,18 @@ div {
     font-family:"Comic Sans MS";
 }
 
+#Bhai {
+    border:4px solid #0000ff;
+    color: tan;
+}
+
+#Bhai:hover {
+    background-color: aquamarine;
+    border:4px cadetblue;
+    font-weight: bolder;
+    color: darkgreen;
+}
+
 .friend {
     
     border:2px dashed #008000;
@@ -32,11 +44,15 @@ div {
     color:#ffff66;
 }
 
-#bestie {
-    border:4px solid #00c957;
+#love {
+    border:1px solid #ff0000;
+    color: palevioletred;
 }
-#bestie:hover {
-    background-color:magenta;
+#love:hover {
+    background-color: cyan;
+    border:4px hotpink;
+    font-weight: bolder;
+    color: palevioletred;
 }
 
 .family {
